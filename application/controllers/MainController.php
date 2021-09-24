@@ -82,4 +82,67 @@ class MainController extends CI_Controller {
 		$this->load->view('templates/footer');
 	}
 
+	public function savings()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('savings_acc/main');
+		$this->load->view('templates/footer');
+	}
+
+	public function personal_loans()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('savings_acc/main');
+		$this->load->view('templates/footer');
+	}
+
+	public function fixed()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('fixed_deposit/main');
+		$this->load->view('templates/footer');
+	}
+
+	public function online_bank()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('online_bank/main');
+		$this->load->view('templates/footer');
+	}
+
+	public function customer_support()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('customer_support/main');
+		$this->load->view('templates/footer');
+	}
+
+	public function hr()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('human_resourse/main');
+		$this->load->view('templates/footer');
+	}
+
+	public function recruitment()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('emp_recruit/main');
+		$this->load->view('templates/footer');
+	}
+
 }
