@@ -96,7 +96,7 @@ class MainController extends CI_Controller {
 		$this->load->view('templates/header');
 		$this->load->view('templates/upperbar');
 		$this->load->view('templates/sidebar');
-		$this->load->view('savings_acc/main');
+		$this->load->view('personal_loans/main');
 		$this->load->view('templates/footer');
 	}
 
