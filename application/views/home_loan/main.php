@@ -31,12 +31,12 @@
                 <!-- small card -->
                 <div class="small-box bg-info">
                   <div class="inner">
-                    <h3>150</h3>
+                  <h1> Home Loan Application</h1>
 
-                    <p>New Orders</p>
+                    <p>Download </p>
                   </div>
                   <div class="icon">
-                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-file-alt"></i>
                   </div>
                   <a href="#" class="small-box-footer">
                     More info <i class="fas fa-arrow-circle-right"></i>
@@ -48,12 +48,12 @@
                 <!-- small card -->
                 <div class="small-box bg-info">
                   <div class="inner">
-                    <h3>150</h3>
+                  <h1>Current Applicant</h1>
 
-                    <p>New Orders</p>
+                  <p>Find Here</p>
                   </div>
                   <div class="icon">
-                    <i class="fas fa-shopping-cart"></i>
+                  <i class="fas fa-id-card-alt"></i>
                   </div>
                   <a href="#" class="small-box-footer">
                     More info <i class="fas fa-arrow-circle-right"></i>
@@ -65,12 +65,12 @@
                 <!-- small card -->
                 <div class="small-box bg-info">
                   <div class="inner">
-                    <h3>150</h3>
+                  <h1>Pending Applicant</h1>
 
-                    <p>New Orders</p>
+                    <p>Find Here </p>
                   </div>
                   <div class="icon">
-                    <i class="fas fa-shopping-cart"></i>
+                  <i class="fas fa-id-card-alt"></i>
                   </div>
                   <a href="#" class="small-box-footer">
                     More info <i class="fas fa-arrow-circle-right"></i>
@@ -82,12 +82,13 @@
                 <!-- small card -->
                 <div class="small-box bg-info">
                   <div class="inner">
-                    <h3>150</h3>
+                 
+                  <h1>Request Applicant</h1>
 
-                    <p>New Orders</p>
+                   <p>Find Here</p>
                   </div>
                   <div class="icon">
-                    <i class="fas fa-shopping-cart"></i>
+                  <i class="fas fa-id-card-alt"></i>
                   </div>
                   <a href="#" class="small-box-footer">
                     More info <i class="fas fa-arrow-circle-right"></i>
@@ -100,12 +101,14 @@
             <div class="row">
             
               <div class="col-md-3">
-                <div class="card card-danger">
+                <div class="card card-secondary">
                   <div class="card-header">
-                    <h3 class="card-title">Danger</h3>
+                    <h3 class="card-title">About Loan</h3>
                   </div>
                   <div class="card-body">
-                    The body of the card
+                  <a href="#" class="small-box-footer">
+                    More info <i class="fas fa-arrow-circle-right"></i>
+                  </a>
                   </div>
                   <!-- /.card-body -->
                 </div>
@@ -113,12 +116,14 @@
               </div>
 
               <div class="col-md-3">
-                <div class="card card-danger">
+                <div class="card card-secondary">
                   <div class="card-header">
-                    <h3 class="card-title">Danger</h3>
+                    <h3 class="card-title">Laon Calculater</h3>
                   </div>
                   <div class="card-body">
-                    The body of the card
+                  <a href="#" class="small-box-footer">
+                    More info <i class="fas fa-arrow-circle-right"></i>
+                  </a>
                   </div>
                   <!-- /.card-body -->
                 </div>
@@ -126,12 +131,14 @@
               </div>
 
               <div class="col-md-3">
-                <div class="card card-danger">
+                <div class="card card-secondary">
                   <div class="card-header">
-                    <h3 class="card-title">Danger</h3>
+                    <h3 class="card-title">Summary</h3>
                   </div>
                   <div class="card-body">
-                    The body of the card
+                  <a href="#" class="small-box-footer">
+                    More info <i class="fas fa-arrow-circle-right"></i>
+                  </a>
                   </div>
                   <!-- /.card-body -->
                 </div>
@@ -139,12 +146,14 @@
               </div>
 
               <div class="col-md-3">
-                <div class="card card-danger">
+                <div class="card card-secondary">
                   <div class="card-header">
-                    <h3 class="card-title">Danger</h3>
+                    <h3 class="card-title">History</h3>
                   </div>
                   <div class="card-body">
-                    The body of the card
+                  <a href="#" class="small-box-footer">
+                    More info <i class="fas fa-arrow-circle-right"></i>
+                  </a>
                   </div>
                   <!-- /.card-body -->
                 </div>

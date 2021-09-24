@@ -106,33 +106,37 @@
 <!--  -->
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
+  <a class="navbar-brand" href="#">SEYLAN</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+    <li class="nav-item active">
+        <a class="nav-link" href="#">Personal<span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Bussiness <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Corporate<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown
+          About Us
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Contac Us</a>
+          <a class="dropdown-item" href="#">Bussiness</a>
+          <a class="dropdown-item" href="#">Corporate</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="#">Something else here</a>
         </div>
       </li>
-      <li class="nav-item">
+      <!-- <li class="nav-item">
         <a class="nav-link disabled" href="#">Disabled</a>
-      </li>
+      </li> -->
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
@@ -155,9 +159,10 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-3">
                         <div class="card">
-                            <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
-                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" />
-                          </a>
+                            <!-- <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html"> -->
+                            <!-- <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" /> -->
+                          <!-- </a> -->
+                          <img src="assets/images/home.jpg"  class="card-img-top" alt="Card image cap" style="height: 12rem;">
                             <div class="card-content">
                                 <h4 class="card-title text-center">
                                     <a href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">Home Loans Division
@@ -174,9 +179,11 @@
                     </div>
                     <div class="col-xs-12 col-sm-3">
                         <div class="card">
-                            <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
+                            <!-- <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
                             <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" />
-                          </a>
+                          </a> -->
+                          <img src="assets/images/s.jfif"  class="card-img-top" alt="Card image cap" style="height: 12rem;">
+
                             <div class="card-content text-center">
                                 <h4 class="card-title">
                                     <a href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">Savings Account Division
@@ -193,9 +200,10 @@
                     </div>
                     <div class="col-xs-12 col-sm-3">
                         <div class="card">
-                            <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
+                            <!-- <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
                             <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" />
-                          </a>
+                          </a> -->
+                          <img src="assets/images/pp.jpg"  class="card-img-top" alt="Card image cap" style="height: 12rem;">
                             <div class="card-content text-center">
                                 <h4 class="card-title">
                                     <a href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">Personal Loans Division
@@ -212,9 +220,10 @@
                     </div>
                     <div class="col-xs-12 col-sm-3">
                         <div class="card">
-                            <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
+                            <!-- <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
                             <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" />
-                          </a>
+                          </a> -->
+                          <img src="assets/images/f.jfif"  class="card-img-top" alt="Card image cap" style="height: 12rem;">
                             <div class="card-content text-center">
                                 <h4 class="card-title">
                                     <a href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">Fixed Deposits Division
@@ -232,7 +241,7 @@
                     <div class="col-xs-12 col-sm-3">
                         <div class="card">
                             <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
-                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" />
+                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg"  />
                           </a>
                             <div class="card-content text-center">
                                 <h4 class="card-title">
