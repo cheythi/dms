@@ -22,7 +22,7 @@
   <!-- /.login-logo -->
   <div class="card">
     <div class="card-body login-card-body">
-      <p class="login-box-msg">Home Loans Division</p>
+      <p class="login-box-msg">Personal Loans Division</p>
 
       <form action="../../index3.html" method="post">
         <div class="input-group mb-3">
@@ -52,7 +52,7 @@
           </div>
           <!-- /.col -->
           <div class="col-4">
-            <a href="<?php echo base_url();?>MainController/home_loans">
+            <a href="<?php echo base_url();?>MainController/personal_loans">
               <div" class="btn btn-primary btn-block">Sign In</div>
             </a>
           </div>
