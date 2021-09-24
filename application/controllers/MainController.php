@@ -72,4 +72,14 @@ class MainController extends CI_Controller {
 		$this->load->view('templates/header');
 		$this->load->view('pages/login8');
 	}
+
+	public function home_loans()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('home_loan/main');
+		$this->load->view('templates/footer');
+	}
+
 }
