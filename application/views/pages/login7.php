@@ -22,7 +22,7 @@
   <!-- /.login-logo -->
   <div class="card">
     <div class="card-body login-card-body">
-      <p class="login-box-msg">Human Resourse Department</p>
+      <p class="login-box-msg">Home Loans Division</p>
 
       <form action="../../index3.html" method="post">
         <div class="input-group mb-3">
@@ -52,15 +52,19 @@
           </div>
           <!-- /.col -->
           <div class="col-4">
-            <button type="submit" class="btn btn-primary btn-block">Sign In</button>
+            <a href="<?php echo base_url();?>MainController/home_loans">
+              <div" class="btn btn-primary btn-block">Sign In</div>
+            </a>
           </div>
           <!-- /.col -->
         </div>
       </form>
 
-      <p class="mb-1">
-        <a href="forgot-password.html">I forgot my password</a>
-      </p>
+      <div class="container text-left">
+        <p class="mb-1">
+          <a href="forgot-password.html">I forgot my password</a>
+        </p>
+      </div>
       
     </div>
     <!-- /.login-card-body -->
