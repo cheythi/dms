@@ -56,44 +56,28 @@
                 </div>
                 <!-- /.form-group -->
                 <div class="form-group">
-                  <label>Disabled</label>
-                  <select class="form-control select2" disabled="disabled" style="width: 100%;">
-                    <option selected="selected">Alabama</option>
-                    <option>Alaska</option>
-                    <option>California</option>
-                    <option>Delaware</option>
-                    <option>Tennessee</option>
-                    <option>Texas</option>
-                    <option>Washington</option>
-                  </select>
+                  <label>Mobile Number</label>
+				  <input type="text" class="form-control">
+                  
                 </div>
                 <!-- /.form-group -->
               </div>
               <!-- /.col -->
               <div class="col-md-6">
                 <div class="form-group">
-                  <label>Multiple</label>
-                  <select class="select2" multiple="multiple" data-placeholder="Select a State" style="width: 100%;">
-                    <option>Alabama</option>
-                    <option>Alaska</option>
-                    <option>California</option>
-                    <option>Delaware</option>
-                    <option>Tennessee</option>
-                    <option>Texas</option>
-                    <option>Washington</option>
-                  </select>
+                  <label>NIC Number</label>
+				   <input type="text" class="form-control">
                 </div>
                 <!-- /.form-group -->
                 <div class="form-group">
-                  <label>Disabled Result</label>
+                  <label>Reason To apply for the loan</label>
                   <select class="form-control select2" style="width: 100%;">
-                    <option selected="selected">Alabama</option>
-                    <option>Alaska</option>
-                    <option disabled="disabled">California (disabled)</option>
-                    <option>Delaware</option>
-                    <option>Tennessee</option>
-                    <option>Texas</option>
-                    <option>Washington</option>
+                    <option selected="selected">Reason</option>
+                    <option>To build a house</option>
+                    <option>To purches a Vehicle</option>
+                    <option>To purches a land</option>
+                    <option>To start a Business</option>
+                    <option>For wedding</option>
                   </select>
                 </div>
                 <!-- /.form-group -->
@@ -101,19 +85,15 @@
               <!-- /.col -->
             </div>
 
-            <h5>Custom Color Variants</h5>
+            <h5>Other Bank loan Details</h5>
             <div class="row">
               <div class="col-12 col-sm-6">
                 <div class="form-group">
-                  <label>Minimal (.select2-danger)</label>
+                  <label>Bank Name</label>
                   <select class="form-control select2 select2-danger" data-dropdown-css-class="select2-danger" style="width: 100%;">
-                    <option selected="selected">Alabama</option>
-                    <option>Alaska</option>
-                    <option>California</option>
-                    <option>Delaware</option>
-                    <option>Tennessee</option>
-                    <option>Texas</option>
-                    <option>Washington</option>
+                    <option selected="selected">Loan type</option>
+                    <option>Home Loan</option>
+                    <option>Personal Loan</option>
                   </select>
                 </div>
                 <!-- /.form-group -->
@@ -121,17 +101,9 @@
               <!-- /.col -->
               <div class="col-12 col-sm-6">
                 <div class="form-group">
-                  <label>Multiple (.select2-purple)</label>
+                  <label>Other Income Details</label>
                   <div class="select2-purple">
-                    <select class="select2" multiple="multiple" data-placeholder="Select a State" data-dropdown-css-class="select2-purple" style="width: 100%;">
-                      <option>Alabama</option>
-                      <option>Alaska</option>
-                      <option>California</option>
-                      <option>Delaware</option>
-                      <option>Tennessee</option>
-                      <option>Texas</option>
-                      <option>Washington</option>
-                    </select>
+                    <input type="text" class="form-control">
                   </div>
                 </div>
                 <!-- /.form-group -->
