@@ -240,12 +240,12 @@
                     </div>
                     <div class="col-xs-12 col-sm-3">
                         <div class="card">
-                            <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
-                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg"  />
+                            <!-- <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
+                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg"  /> -->
                           </a>
                             <div class="card-content text-center">
                                 <h4 class="card-title">
-                                    <a href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">Online Banking Division
+                                    <a href="">Online Banking Division
                                   </a>
                                 </h4>
                                 <br><br><br>
@@ -259,12 +259,12 @@
                     </div>
                     <div class="col-xs-12 col-sm-3">
                         <div class="card">
-                            <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
-                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" />
+                            <!-- <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
+                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" /> -->
                           </a>
                             <div class="card-content text-center">
                                 <h4 class="card-title">
-                                    <a href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">Customer Support Section
+                                    <a href="">Customer Support Section
                                   </a>
                                 </h4>
                                 <br><br><br>
@@ -278,12 +278,12 @@
                     </div>
                     <div class="col-xs-12 col-sm-3">
                         <div class="card">
-                            <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
-                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" />
+                            <!-- <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
+                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" /> -->
                           </a>
                             <div class="card-content text-center">
                                 <h4 class="card-title">
-                                    <a href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">Human Resource Department
+                                    <a href="">Human Resource Department
                                   </a>
                                 </h4>
                                 <br><br><br>
@@ -297,12 +297,12 @@
                     </div>
                     <div class="col-xs-12 col-sm-3">
                         <div class="card">
-                            <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
-                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" />
+                            <!-- <a class="img-card" href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">
+                            <img src="https://4.bp.blogspot.com/-TDIJ17DfCco/Vtneyc-0t4I/AAAAAAAABmk/aa4AjmCvRck/s1600/cover.jpg" /> -->
                           </a>
                             <div class="card-content text-center">
                                 <h4 class="card-title">
-                                    <a href="http://www.fostrap.com/2016/03/5-button-hover-animation-effects-css3.html">Employee Recruitment
+                                    <a href="">Employee Recruitment
                                   </a>
                                 </h4>
                                 <br><br><br>

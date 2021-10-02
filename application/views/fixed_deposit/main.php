@@ -29,17 +29,15 @@
             
               <div class="col-lg-3 col-6">
                 <!-- small card -->
-                <div class="small-box bg-info">
+                <div class="small-box bg-success">
                   <div class="inner">
-                    <h3>150</h3>
-
-                    <p>New Orders</p>
+                    <p>Get loans</p>
                   </div>
                   <div class="icon">
-                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-book-open"></i>
                   </div>
                   <a href="#" class="small-box-footer">
-                    More info <i class="fas fa-arrow-circle-right"></i>
+                    Fill application <i class="fas fa-arrow-circle-right"></i>
                   </a>
                 </div>
               </div>
@@ -48,49 +46,43 @@
                 <!-- small card -->
                 <div class="small-box bg-info">
                   <div class="inner">
-                    <h3>150</h3>
-
-                    <p>New Orders</p>
+                    <p>Fixed deposit interests</p>
                   </div>
                   <div class="icon">
-                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-book-open"></i>
                   </div>
                   <a href="#" class="small-box-footer">
-                    More info <i class="fas fa-arrow-circle-right"></i>
+                    View documents <i class="fas fa-arrow-circle-right"></i>
                   </a>
                 </div>
               </div>
 
               <div class="col-lg-3 col-6">
                 <!-- small card -->
-                <div class="small-box bg-info">
+                <div class="small-box bg-warning">
                   <div class="inner">
-                    <h3>150</h3>
-
-                    <p>New Orders</p>
+                    <p>Fixed deposit loans</p>
                   </div>
                   <div class="icon">
-                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-book-open"></i>
                   </div>
                   <a href="#" class="small-box-footer">
-                    More info <i class="fas fa-arrow-circle-right"></i>
+                    Loan info <i class="fas fa-arrow-circle-right"></i>
                   </a>
                 </div>
               </div>
 
               <div class="col-lg-3 col-6">
                 <!-- small card -->
-                <div class="small-box bg-info">
+                <div class="small-box bg-danger">
                   <div class="inner">
-                    <h3>150</h3>
-
-                    <p>New Orders</p>
+                    <p>Fixed deposit types</p>
                   </div>
                   <div class="icon">
-                    <i class="fas fa-shopping-cart"></i>
+                    <i class="fas fa-book-open"></i>
                   </div>
                   <a href="#" class="small-box-footer">
-                    More info <i class="fas fa-arrow-circle-right"></i>
+                    more info <i class="fas fa-arrow-circle-right"></i>
                   </a>
                 </div>
               </div>
@@ -100,12 +92,13 @@
             <div class="row">
             
               <div class="col-md-3">
-                <div class="card card-danger">
+                <div class="card card-success">
                   <div class="card-header">
-                    <h3 class="card-title">Danger</h3>
+                    <h3 class="card-title">Loan categories</h3>
                   </div>
                   <div class="card-body">
-                    The body of the card
+                    <li>Senior citizen loans</li>
+                    <li></li>
                   </div>
                   <!-- /.card-body -->
                 </div>
