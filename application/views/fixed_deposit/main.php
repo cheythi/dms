@@ -91,58 +91,7 @@
 
             <div class="row">
             
-              <div class="col-md-3">
-                <div class="card card-success">
-                  <div class="card-header">
-                    <h3 class="card-title">Loan categories</h3>
-                  </div>
-                  <div class="card-body">
-                    <li>Senior citizen loans</li>
-                    <li></li>
-                  </div>
-                  <!-- /.card-body -->
-                </div>
-                <!-- /.card -->
-              </div>
-
-              <div class="col-md-3">
-                <div class="card card-danger">
-                  <div class="card-header">
-                    <h3 class="card-title">Danger</h3>
-                  </div>
-                  <div class="card-body">
-                    The body of the card
-                  </div>
-                  <!-- /.card-body -->
-                </div>
-                <!-- /.card -->
-              </div>
-
-              <div class="col-md-3">
-                <div class="card card-danger">
-                  <div class="card-header">
-                    <h3 class="card-title">Danger</h3>
-                  </div>
-                  <div class="card-body">
-                    The body of the card
-                  </div>
-                  <!-- /.card-body -->
-                </div>
-                <!-- /.card -->
-              </div>
-
-              <div class="col-md-3">
-                <div class="card card-danger">
-                  <div class="card-header">
-                    <h3 class="card-title">Danger</h3>
-                  </div>
-                  <div class="card-body">
-                    The body of the card
-                  </div>
-                  <!-- /.card-body -->
-                </div>
-                <!-- /.card -->
-              </div>
+              
 
             </div>
             
