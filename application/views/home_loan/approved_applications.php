@@ -48,7 +48,7 @@
                     <td>Chethana Dasanayaka</td>
                     <td>0012 4452 4587 1569</td>
                     <td class="text-center">
-                        <span class="badge badge-success">Success</span>
+                        <span class="badge badge-success">Approved</span>
                     </td>
                   </tr>
                   </tbody>
