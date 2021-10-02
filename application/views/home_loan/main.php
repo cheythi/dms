@@ -29,9 +29,9 @@
             
               <div class="col-lg-3 col-6">
                 <!-- small card -->
-                <div class="small-box bg-info">
+                <div class="small-box bg-success">
                   <div class="inner">
-                  <h1> Home Loan Application</h1>
+                  <h2> Home Loan Application</h2>
                   </div>
                   <div class="icon">
                     <i class="fas fa-file-alt"></i>
@@ -46,7 +46,7 @@
                 <!-- small card -->
                 <div class="small-box bg-info">
                   <div class="inner">
-                  <h1>Current Applications</h1>
+                  <h2>Current Applications</h2>
                   </div>
                   <div class="icon">
                   <i class="fas fa-id-card-alt"></i>
@@ -59,9 +59,9 @@
 
               <div class="col-lg-3 col-6">
                 <!-- small card -->
-                <div class="small-box bg-info">
+                <div class="small-box bg-warning">
                   <div class="inner">
-                  <h1>Pending Applications</h1>
+                  <h2>Pending Applications</h2>
                   </div>
                   <div class="icon">
                   <i class="fas fa-id-card-alt"></i>
@@ -74,10 +74,10 @@
 
               <div class="col-lg-3 col-6">
                 <!-- small card -->
-                <div class="small-box bg-info">
+                <div class="small-box bg-danger">
                   <div class="inner">
                  
-                  <h1>Approved applications</h1>
+                  <h2>Approved applications</h2>
                   </div>
                   <div class="icon">
                   <i class="fas fa-id-card-alt"></i>
@@ -94,7 +94,7 @@
             
               <div class="col-md-3">
                 <div class="card card-secondary">
-                  <div class="card-header">
+                  <div class="card-header bg-success">
                     <h3 class="card-title">Fill Loan application</h3>
                   </div>
                   <div class="card-body">
@@ -109,7 +109,7 @@
 
               <div class="col-md-3">
                 <div class="card card-secondary">
-                  <div class="card-header">
+                  <div class="card-header bg-info">
                     <h3 class="card-title">Laon Calculater</h3>
                   </div>
                   <div class="card-body">
@@ -124,7 +124,7 @@
 
               <div class="col-md-3">
                 <div class="card card-secondary">
-                  <div class="card-header">
+                  <div class="card-header bg-warning">
                     <h3 class="card-title">Summary</h3>
                   </div>
                   <div class="card-body">
@@ -139,7 +139,7 @@
 
               <div class="col-md-3">
                 <div class="card card-secondary">
-                  <div class="card-header">
+                  <div class="card-header bg-danger">
                     <h3 class="card-title">History</h3>
                   </div>
                   <div class="card-body">
