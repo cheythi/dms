@@ -32,13 +32,26 @@
                 <div class="small-box bg-info">
                   <div class="inner">
                   <h1> Home Loan Application</h1>
-
-                    <p>Download </p>
                   </div>
                   <div class="icon">
                     <i class="fas fa-file-alt"></i>
                   </div>
                   <a href="#" class="small-box-footer">
+                    Download Application <i class="fas fa-arrow-circle-right"></i>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-lg-3 col-6">
+                <!-- small card -->
+                <div class="small-box bg-info">
+                  <div class="inner">
+                  <h1>Current Applications</h1>
+                  </div>
+                  <div class="icon">
+                  <i class="fas fa-id-card-alt"></i>
+                  </div>
+                  <a href="<?php echo base_url()?>MainController/current_applications" class="small-box-footer">
                     More info <i class="fas fa-arrow-circle-right"></i>
                   </a>
                 </div>
@@ -48,31 +61,12 @@
                 <!-- small card -->
                 <div class="small-box bg-info">
                   <div class="inner">
-                  <h1>Current Applicant</h1>
-
-                  <p>Find Here</p>
+                  <h1>Pending Applications</h1>
                   </div>
                   <div class="icon">
                   <i class="fas fa-id-card-alt"></i>
                   </div>
-                  <a href="#" class="small-box-footer">
-                    More info <i class="fas fa-arrow-circle-right"></i>
-                  </a>
-                </div>
-              </div>
-
-              <div class="col-lg-3 col-6">
-                <!-- small card -->
-                <div class="small-box bg-info">
-                  <div class="inner">
-                  <h1>Pending Applicant</h1>
-
-                    <p>Find Here </p>
-                  </div>
-                  <div class="icon">
-                  <i class="fas fa-id-card-alt"></i>
-                  </div>
-                  <a href="#" class="small-box-footer">
+                  <a href="<?php echo base_url()?>MainController/pending_applications" class="small-box-footer">
                     More info <i class="fas fa-arrow-circle-right"></i>
                   </a>
                 </div>
@@ -83,14 +77,12 @@
                 <div class="small-box bg-info">
                   <div class="inner">
                  
-                  <h1>Request Applicant</h1>
-
-                   <p>Find Here</p>
+                  <h1>Approved applications</h1>
                   </div>
                   <div class="icon">
                   <i class="fas fa-id-card-alt"></i>
                   </div>
-                  <a href="#" class="small-box-footer">
+                  <a href="<?php echo base_url()?>MainController/approved_applications" class="small-box-footer">
                     More info <i class="fas fa-arrow-circle-right"></i>
                   </a>
                 </div>
@@ -103,11 +95,11 @@
               <div class="col-md-3">
                 <div class="card card-secondary">
                   <div class="card-header">
-                    <h3 class="card-title">About Loan</h3>
+                    <h3 class="card-title">Fill Loan application</h3>
                   </div>
                   <div class="card-body">
-                  <a href="#" class="small-box-footer">
-                    More info <i class="fas fa-arrow-circle-right"></i>
+                  <a href="<?php echo base_url()?>MainController/fill_loan" class="small-box-footer">
+                    Fill new application <i class="fas fa-arrow-circle-right"></i>
                   </a>
                   </div>
                   <!-- /.card-body -->

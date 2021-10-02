@@ -145,4 +145,40 @@ class MainController extends CI_Controller {
 		$this->load->view('templates/footer');
 	}
 
+	public function fill_loan()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('home_loan/fill_loan');
+		$this->load->view('templates/footer');
+	}
+
+	public function current_applications()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('home_loan/current_applications');
+		$this->load->view('templates/footer');
+	}
+
+	public function pending_applications()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('home_loan/pending_applications');
+		$this->load->view('templates/footer');
+	}
+
+	public function approved_applications()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('templates/upperbar');
+		$this->load->view('templates/sidebar');
+		$this->load->view('home_loan/approved_applications');
+		$this->load->view('templates/footer');
+	}
+
 }

@@ -1,5 +1,5 @@
 <footer class="main-footer">
-    <strong>Copyright &copy; 2014-2019 <a href="<?php echo base_url(); ?>/assets/http://adminlte.io">AdminLTE.io</a>.</strong>
+    <strong>Copyright &copy; 2021 <a href="<?php echo base_url(); ?>#">Seylan DMS</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 3.0.4
@@ -48,5 +48,7 @@
 <script src="<?php echo base_url(); ?>/assets/dist/js/pages/dashboard.js"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="<?php echo base_url(); ?>/assets/dist/js/demo.js"></script>
+
+<script src="https://kit.fontawesome.com/69ff2b1da3.js" crossorigin="anonymous"></script>
 </body>
 </html>
